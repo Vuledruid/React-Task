@@ -1,0 +1,530 @@
+{
+  "activities": [
+    {
+      "task": "Learn how to fetch data",
+      "time": "10:00 - 12:00",
+      "date": "2023-01-16",
+      "notes": "Today try to learn how to fetch data in React, this is one of the most important concepts in development",
+      "id": 73930385
+    },
+    {
+      "task": "Learn how to play football",
+      "time": "10:00 - 12:00",
+      "date": "2023-02-02",
+      "notes": "Today try to learn how to play football, it's a fun and healthy activity",
+      "id": 73930384
+    },
+    {
+      "task": "Study JavaScript",
+      "time": "14:00 - 16:00",
+      "date": "2023-03-27",
+      "notes": "Dive deep into JavaScript concepts and coding practices",
+      "id": 73930383
+    },
+    {
+      "task": "Go for a hike",
+      "time": "09:00 - 12:00",
+      "date": "2023-04-15",
+      "notes": "Explore the beautiful trails and enjoy nature",
+      "id": 73930382
+    },
+    {
+      "task": "Attend a web development workshop",
+      "time": "13:00 - 17:00",
+      "date": "2023-05-08",
+      "notes": "Learn the latest web development technologies and best practices",
+      "id": 73930381
+    },
+    {
+      "task": "Family picnic",
+      "time": "12:00 - 15:00",
+      "date": "2023-06-19",
+      "notes": "Spend quality time with family at the local park",
+      "id": 73930380
+    },
+    {
+      "task": "Plan a vacation",
+      "time": "All day",
+      "date": "2023-07-28",
+      "notes": "Start planning your dream vacation destination",
+      "id": 73930379
+    },
+    {
+      "task": "Work on a coding project",
+      "time": "15:00 - 18:00",
+      "date": "2023-08-12",
+      "notes": "Make progress on your coding project and achieve your goals",
+      "id": 73930378
+    },
+    {
+      "task": "Read a new book",
+      "time": "20:00 - 21:30",
+      "date": "2023-09-19",
+      "notes": "Dive into the world of fiction or non-fiction with a new book",
+      "id": 73930377
+    },
+    {
+      "task": "Exercise at the gym",
+      "time": "09:00 - 10:30",
+      "date": "2023-10-22",
+      "notes": "Stay fit and healthy by hitting the gym",
+      "id": 73930376
+    },
+    {
+      "task": "Cook a new recipe",
+      "time": "18:30 - 20:00",
+      "date": "2023-11-27",
+      "notes": "Experiment with new culinary delights in the kitchen",
+      "id": 73930375
+    },
+    {
+      "task": "Celebrate a friend's birthday",
+      "time": "17:00 - 22:00",
+      "date": "2023-12-30",
+      "notes": "Join the celebration and make it a memorable day",
+      "id": 73930374
+    },
+    {
+      "task": "Learn a new language",
+      "time": "10:00 - 11:30",
+      "date": "2023-01-07",
+      "notes": "Expand your horizons by picking up a new language",
+      "id": 73930373
+    },
+    {
+      "task": "Start a daily journal",
+      "time": "All day",
+      "date": "2023-02-10",
+      "notes": "Record your thoughts and experiences in a journal",
+      "id": 73930372
+    },
+    {
+      "task": "Watch a classic movie",
+      "time": "20:00 - 22:30",
+      "date": "2023-03-14",
+      "notes": "Enjoy a timeless classic on movie night",
+      "id": 73930371
+    },
+    {
+      "task": "Volunteer at a local charity",
+      "time": "09:30 - 12:00",
+      "date": "2023-04-18",
+      "notes": "Give back to the community by volunteering",
+      "id": 73930370
+    },
+    {
+      "task": "Attend a live concert",
+      "time": "19:00 - 23:00",
+      "date": "2023-05-23",
+      "notes": "Experience the energy of live music at a concert",
+      "id": 73930369
+    },
+    {
+      "task": "Explore a new art gallery",
+      "time": "11:00 - 14:00",
+      "date": "2023-06-29",
+      "notes": "Discover new art and inspiration at a gallery",
+      "id": 73930368
+    },
+    {
+      "task": "Take a road trip",
+      "time": "All day",
+      "date": "2023-07-04",
+      "notes": "Hit the road and explore new destinations on a road trip",
+      "id": 73930367
+    },
+    {
+      "task": "Plan a home renovation",
+      "time": "14:00 - 17:00",
+      "date": "2023-08-07",
+      "notes": "Upgrade your living space with a home renovation project",
+      "id": 73930366
+    },
+    {
+      "task": "Write a short story",
+      "time": "16:00 - 18:30",
+      "date": "2023-09-11",
+      "notes": "Let your creativity flow with a short story writing session",
+      "id": 73930365
+    },
+    {
+      "task": "Visit a historical museum",
+      "time": "13:00 - 15:00",
+      "date": "2023-10-15",
+      "notes": "Learn about history and culture at a local museum",
+      "id": 73930364
+    },
+    {
+      "task": "Explore a nature reserve",
+      "time": "10:00 - 13:00",
+      "date": "2023-11-19",
+      "notes": "Connect with nature and wildlife at a nature reserve",
+      "id": 73930363
+    },
+    {
+      "task": "Celebrate a special anniversary",
+      "time": "18:00 - 23:00",
+      "date": "2023-12-23",
+      "notes": "Mark a memorable milestone with a celebration",
+      "id": 73930362
+    },
+    {
+      "task": "Learn how to paint",
+      "time": "14:30 - 16:00",
+      "date": "2023-01-04",
+      "notes": "Unleash your artistic talent with painting lessons",
+      "id": 73930361
+    },
+    {
+      "task": "Take a photography class",
+      "time": "12:00 - 14:00",
+      "date": "2023-02-09",
+      "notes": "Capture stunning moments with photography skills",
+      "id": 73930360
+    },
+    {
+      "task": "Visit a botanical garden",
+      "time": "11:00 - 15:00",
+      "date": "2023-03-16",
+      "notes": "Admire the beauty of plants and flowers at a botanical garden",
+      "id": 73930359
+    },
+    {
+      "task": "Go stargazing",
+      "time": "20:30 - 22:30",
+      "date": "2023-04-20",
+      "notes": "Witness the wonders of the night sky with stargazing",
+      "id": 73930358
+    },
+    {
+      "task": "Explore a new hiking trail",
+      "time": "08:00 - 13:00",
+      "date": "2023-05-25",
+      "notes": "Embark on an adventure with a new hiking trail",
+      "id": 73930357
+    },
+    {
+      "task": "Attend a tech conference",
+      "time": "09:00 - 17:00",
+      "date": "2023-06-30",
+      "notes": "Stay updated with the latest tech trends at a conference",
+      "id": 73930356
+    },
+    {
+      "task": "Try a new restaurant",
+      "time": "19:30 - 21:00",
+      "date": "2023-07-05",
+      "notes": "Savor the flavors of a new restaurant in town",
+      "id": 73930355
+    },
+    {
+      "task": "Learn how to dance",
+      "time": "18:00 - 20:00",
+      "date": "2023-08-09",
+      "notes": "Dance your way to fitness and fun with dance lessons",
+      "id": 73930354
+    },
+    {
+      "task": "Plant a garden",
+      "time": "10:00 - 12:30",
+      "date": "2023-09-13",
+      "notes": "Create a beautiful garden space at home",
+      "id": 73930353
+    },
+    {
+      "task": "Host a movie night with friends",
+      "time": "20:00 - 23:00",
+      "date": "2023-10-18",
+      "notes": "Enjoy a movie marathon with friends at home",
+      "id": 73930352
+    },
+    {
+      "task": "Go on a weekend getaway",
+      "time": "All weekend",
+      "date": "2023-11-22",
+      "notes": "Escape for a relaxing weekend retreat",
+      "id": 73930351
+    },
+    {
+      "task": "Celebrate New Year's Eve",
+      "time": "21:00 - 02:00",
+      "date": "2023-12-31",
+      "notes": "Ring in the new year with joy and festivities",
+      "id": 73930350
+    },
+    {
+      "task": "Learn how to fetch data",
+      "time": "10:00 - 12:00",
+      "date": "2023-01-01",
+      "notes": "Today try to learn how to fetch data in React, this is one of the most important concepts in development",
+      "id": 73930349
+    },
+    {
+      "task": "Learn how to play football",
+      "time": "10:00 - 12:00",
+      "date": "2023-02-18",
+      "notes": "Today try to learn how to play football, it's a fun and healthy activity",
+      "id": 73930348
+    },
+    {
+      "task": "Study JavaScript",
+      "time": "14:00 - 16:00",
+      "date": "2023-03-05",
+      "notes": "Dive deep into JavaScript concepts and coding practices",
+      "id": 73930347
+    },
+    {
+      "task": "Go for a hike",
+      "time": "09:00 - 12:00",
+      "date": "2023-07-15",
+      "notes": "Explore the beautiful trails and enjoy nature",
+      "id": 73930346
+    },
+    {
+      "task": "Attend a web development workshop",
+      "time": "13:00 - 17:00",
+      "date": "2023-05-20",
+      "notes": "Learn the latest web development technologies and best practices",
+      "id": 73930345
+    },
+    {
+      "task": "Family picnic",
+      "time": "12:00 - 15:00",
+      "date": "2023-06-25",
+      "notes": "Spend quality time with family at the local park",
+      "id": 73930344
+    },
+    {
+      "task": "Learn graphic design",
+      "time": "10:00 - 12:00",
+      "date": "2023-01-15",
+      "notes": "Explore the world of graphic design and enhance your creativity",
+      "id": 73930343
+    },
+    {
+      "task": "Try a new recipe",
+      "time": "18:30 - 20:00",
+      "date": "2023-02-20",
+      "notes": "Experiment with flavors and cook a delicious new dish",
+      "id": 73930342
+    },
+    {
+      "task": "Explore a new city",
+      "time": "09:00 - 16:00",
+      "date": "2023-03-25",
+      "notes": "Discover hidden gems in a city you've never been to before",
+      "id": 73930341
+    },
+    {
+      "task": "Join a photography club",
+      "time": "14:00 - 16:00",
+      "date": "2023-04-30",
+      "notes": "Connect with fellow photographers and share your passion",
+      "id": 73930340
+    },
+    {
+      "task": "Attend a live theater performance",
+      "time": "19:00 - 22:00",
+      "date": "2023-05-05",
+      "notes": "Experience the magic of live theater and storytelling",
+      "id": 73930339
+    },
+    {
+      "task": "Visit an amusement park",
+      "time": "12:00 - 18:00",
+      "date": "2023-06-10",
+      "notes": "Enjoy thrilling rides and games at the amusement park",
+      "id": 73930338
+    },
+    {
+      "task": "Learn to skateboard",
+      "time": "16:00 - 18:00",
+      "date": "2023-07-25",
+      "notes": "Master the art of skateboarding and have some outdoor fun",
+      "id": 73930337
+    },
+    {
+      "task": "Create a DIY project",
+      "time": "15:00 - 17:30",
+      "date": "2023-08-20",
+      "notes": "Get crafty and make something unique with a DIY project",
+      "id": 73930336
+    },
+    {
+      "task": "Join a book club",
+      "time": "20:00 - 21:30",
+      "date": "2023-09-25",
+      "notes": "Discuss and explore new books with fellow book enthusiasts",
+      "id": 73930335
+    },
+    {
+      "task": "Practice mindfulness meditation",
+      "time": "08:00 - 08:30",
+      "date": "2023-10-30",
+      "notes": "Start your day with a short mindfulness meditation session",
+      "id": 73930334
+    },
+    {
+      "task": "Take a dance class",
+      "time": "18:00 - 19:30",
+      "date": "2023-11-04",
+      "notes": "Learn new dance moves and stay active",
+      "id": 73930333
+    },
+    {
+      "task": "Explore a local farmers' market",
+      "time": "10:00 - 12:00",
+      "date": "2023-12-09",
+      "notes": "Discover fresh produce and handmade goods at the market",
+      "id": 73930332
+    },
+    {
+      "task": "Attend a science fair",
+      "time": "13:00 - 16:00",
+      "date": "2023-01-14",
+      "notes": "Explore innovative science projects and experiments",
+      "id": 73930331
+    },
+    {
+      "task": "Learn to play chess",
+      "time": "11:00 - 12:30",
+      "date": "2023-02-23",
+      "notes": "Sharpen your strategic thinking with chess lessons",
+      "id": 73930330
+    },
+    {
+      "task": "Visit an art exhibition",
+      "time": "15:00 - 17:00",
+      "date": "2023-03-24",
+      "notes": "Admire and appreciate art at a local exhibition",
+      "id": 73930329
+    },
+    {
+      "task": "Go on a bike ride",
+      "time": "09:30 - 11:00",
+      "date": "2023-04-29",
+      "notes": "Enjoy the outdoors with a refreshing bike ride",
+      "id": 73930328
+    },
+    {
+      "task": "Try a new sport",
+      "time": "14:00 - 16:00",
+      "date": "2024-05-04",
+      "notes": "Explore a new sport and challenge yourself",
+      "id": 73930327
+    },
+    {
+      "task": "Host a game night",
+      "time": "19:00 - 22:00",
+      "date": "2023-06-08",
+      "notes": "Gather friends for a fun-filled game night at home",
+      "id": 73930326
+    },
+    {
+      "task": "Take a cooking class",
+      "time": "16:30 - 18:30",
+      "date": "2023-07-13",
+      "notes": "Learn new culinary skills from a professional chef",
+      "id": 73930325
+    },
+    {
+      "task": "Visit a science museum",
+      "time": "11:00 - 14:00",
+      "date": "2023-08-18",
+      "notes": "Explore interactive exhibits and learn about science",
+      "id": 73930324
+    },
+    {
+      "task": "Join a community garden",
+      "time": "10:00 - 12:00",
+      "date": "2023-09-23",
+      "notes": "Grow your own vegetables and flowers in a community garden",
+      "id": 73930323
+    },
+    {
+      "task": "Go on a kayaking adventure",
+      "time": "13:00 - 15:30",
+      "date": "2023-10-28",
+      "notes": "Navigate the waters and enjoy a kayaking experience",
+      "id": 73930322
+    },
+    {
+      "task": "Attend a comedy show",
+      "time": "20:00 - 22:00",
+      "date": "2023-11-02",
+      "notes": "Laugh out loud at a live comedy performance",
+      "id": 73930321
+    },
+    {
+      "task": "Learn to play a musical instrument",
+      "time": "18:00 - 19:30",
+      "date": "2023-12-07",
+      "notes": "Pick up a musical instrument and start your musical journey",
+      "id": 73930320
+    },
+    {
+      "task": "Take a pottery class",
+      "time": "14:30 - 16:30",
+      "date": "2023-01-11",
+      "notes": "Unleash your creativity with a pottery class",
+      "id": 73930319
+    },
+    {
+      "task": "Explore a new hiking trail",
+      "time": "09:00 - 12:00",
+      "date": "2023-02-15",
+      "notes": "Embark on an adventure with a new hiking trail",
+      "id": 73930318
+    },
+    {
+      "task": "Join a fitness bootcamp",
+      "time": "18:30 - 20:30",
+      "date": "2023-03-22",
+      "notes": "Challenge yourself with a high-intensity fitness bootcamp",
+      "id": 73930317
+    },
+    {
+      "task": "Try a new coffee shop",
+      "time": "15:00 - 17:00",
+      "date": "2023-04-26",
+      "notes": "Savor different coffee blends at a local coffee shop",
+      "id": 73930316
+    },
+    {
+      "task": "Attend a tech meetup",
+      "time": "19:00 - 21:00",
+      "date": "2023-05-31",
+      "notes": "Network with fellow tech enthusiasts at a local meetup",
+      "id": 73930315
+    },
+    {
+      "task": "Learn to ride a motorcycle",
+      "time": "10:00 - 12:30",
+      "date": "2023-06-05",
+      "notes": "Experience the thrill of riding a motorcycle",
+      "id": 73930314
+    },
+    {
+      "task": "Host a barbecue party",
+      "time": "17:00 - 20:00",
+      "date": "2023-07-10",
+      "notes": "Gather friends and family for a delicious barbecue",
+      "id": 73930313
+    },
+    {
+      "task": "Explore a new beach",
+      "time": "13:00 - 16:00",
+      "date": "2023-08-15",
+      "notes": "Relax and enjoy the sun at a new beach destination",
+      "id": 73930312
+    },
+    {
+      "task": "Take a scenic drive",
+      "time": "14:30 - 17:30",
+      "date": "2023-09-20",
+      "notes": "Enjoy the beauty of nature with a scenic drive",
+      "id": 73930311
+    }
+  ]
+}
+    
